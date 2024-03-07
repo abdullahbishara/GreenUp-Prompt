@@ -1,0 +1,27 @@
+Imagine you are planning to cultivate onions in Riyadh, Saudi Arabia. Here is a set of dummy data representing various cost factors involved in the cultivation process. Your task is to perform a detailed financial analysis and calculate the total cost per hectare based on the given variables:
+
+Land Cost:
+
+100 SAR per hectare
+Seed Cost:
+
+20 SAR per gram. Each hectare requires 2 hectares of planting.
+Assume 5 grams of seeds are required per hectare.
+Labor Cost:
+
+30 SAR per hour. Estimate the total labor hours per hectare.
+Assume 50 hours of labor are required per hectare.
+Fertilizer and Soil Amendments Cost:
+
+5 SAR per kilogram. Estimate the quantity required per hectare.
+Assume 50 kilograms of fertilizer are required per hectare.
+Equipment Rental Cost:
+
+400 SAR per hectare
+Pesticides Cost:
+
+50 SAR per hectare
+Harvesting and Packaging Cost:
+
+0.50 SAR per kilogram. Each hectare produces 4,000 kilograms.
+Please perform the necessary calculations and provide the total cost per hectare for cultivating onions in Riyadh, Saudi Arabia.
